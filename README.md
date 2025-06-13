@@ -79,7 +79,7 @@ $ pip install -r requirements.txt
 ## <a name="usage">🚀 Usage</a>
 ```bash
 # Launch the dashboard / Ejecutar la aplicación
-$ streamlit run other_app.py
+$ streamlit run desander_dashboard.py
 ```
 1. Choose a data source: sample data, upload CSVs, or load from directory.  
 2. Apply filters & select grouping interval.  
