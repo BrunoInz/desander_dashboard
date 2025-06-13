@@ -92,6 +92,7 @@ $ streamlit run desander_dashboard.py
 3. Revisa gráficas, estadísticas y cambios de válvula detectados.  
 4. Descarga los datos filtrados en CSV.
 
+---
 
 ## <a name="data-format">📄 Data Format</a>
 Each CSV row should contain:
