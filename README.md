@@ -120,9 +120,3 @@ Cada fila CSV debe incluir:
 | `created_at` | datetime | Fecha de creación (opcional) |
 | `updated_at` | datetime | Fecha de actualización (opcional) |
 
----
-
-## <a name="screenshots">🖼️ Screenshots</a> / <a name="capturas-de-pantalla">🖼️ Capturas de pantalla</a>
-Add images here to showcase the dashboard.
-
----
